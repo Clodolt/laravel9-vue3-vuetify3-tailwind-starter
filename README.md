@@ -1,3 +1,16 @@
+# Laravel 9 + Vue 3 + Vuetify Project Starter
+
+A template I have created to ease starting a project with those popular frameworks, as all three frameworks have gotten big version updates with changes recently.
+
+
+### Note: 
+- Tailwind is set to using the `tw-` prefix to avoid conflicts with Vuetify (e.g with the `flex` tag). All auto generated views have already been adjusted to use the prefix.
+- The version of Vuetify is currently set to `vuetify^3.0.0-beta.1` due to it being the only version supporting Vue 3. I will update the repo as soon as the stable release is out.
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
