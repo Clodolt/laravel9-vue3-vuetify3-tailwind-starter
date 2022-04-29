@@ -8,21 +8,21 @@ import { Head } from '@inertiajs/inertia-vue3';
 
     <BreezeAuthenticatedLayout>
         <template #header>
-            <h2 class="font-semibold text-xl text-gray-800 leading-tight">
+            <h2 class="tw-font-semibold tw-text-xl tw-text-gray-800 tw-leading-tight">
                 Dashboard Test
             </h2>
         </template>
 
-        <div class="py-12">
-            <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-                <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-                    <div class="p-6 bg-white border-b border-gray-200">
+        <div class="tw-py-12">
+            <div class="tw-max-w-7xl tw-mx-auto sm:tw-px-6 lg:tw-px-8">
+                <div class="tw-bg-white tw-overflow-hidden tw-shadow-sm sm:tw-rounded-lg">
+                    <div class="tw-p-6 tw-bg-white tw-border-b tw-border-gray-200">
                         <v-card
-                            class="mx-auto"
+                            class="tw-mx-auto"
                             max-width="344"
                         >
                             <v-card-text>
-                                <div>Word of the Day</div>
+                                <div>Wor of the Day</div>
                                 <p class="text-h4 text--primary">
                                     el·ee·mos·y·nar·y
                                 </p>
@@ -48,13 +48,13 @@ import { Head } from '@inertiajs/inertia-vue3';
                                     class="transition-fast-in-fast-out v-card--reveal"
                                     style="height: 100%;"
                                 >
-                                    <v-card-text class="pb-0">
+                                    <v-card-text class="tw-pb-0">
                                         <p class="text-h4 text--primary">
                                             Origin
                                         </p>
                                         <p>late 16th century (as a noun denoting a place where alms were distributed): from medieval Latin eleemosynarius, from late Latin eleemosyna ‘alms’, from Greek eleēmosunē ‘compassion’ </p>
                                     </v-card-text>
-                                    <v-card-actions class="pt-0">
+                                    <v-card-actions class="tw-pt-0">
                                         <v-btn
                                             text
                                             color="teal accent-4"
