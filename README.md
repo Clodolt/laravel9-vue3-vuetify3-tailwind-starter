@@ -1,6 +1,6 @@
 # Laravel 9 + Vue 3 + Vuetify Project Starter
 
-A template I have created to ease starting a project with those popular frameworks, as all three frameworks have gotten big version updates with changes recently.
+A template I have created to ease starting a project with those popular frameworks, as all three frameworks have gotten big version updates with changes recently without a lot of help online regarding using them together.
 
 
 ### Note: 
